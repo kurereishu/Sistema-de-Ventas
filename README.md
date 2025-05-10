@@ -1,4 +1,5 @@
 Descripción del Sistema de Ventas en Java con MySQL
+
 Este sistema de ventas está desarrollado en Java y utiliza MySQL como base de datos para almacenar información de productos, clientes y facturas. La interfaz gráfica está diseñada para facilitar la gestión de ventas, permitiendo a los usuarios realizar operaciones como seleccionar productos, calcular totales y registrar ventas.
 
 Componentes Principales:
